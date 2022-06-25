@@ -6,3 +6,7 @@
 7. samuel
 
 ### samuel srujan B
+
+1. america
+2. australia
+3. london
