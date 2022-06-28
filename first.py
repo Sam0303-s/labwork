@@ -16,3 +16,5 @@ linear_search(array,key)
 
 # Enter a key number:  50
 # found at  2
+
+# created by ceo samuel srujan B
