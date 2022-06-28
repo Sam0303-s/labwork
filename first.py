@@ -11,3 +11,8 @@ def linear_search(list,k):
         print("not found")
 
 linear_search(array,key)
+
+# output will be  ---------->
+
+# Enter a key number:  50
+# found at  2
